@@ -13,7 +13,7 @@ main {
     margin-right: auto;
 }
 h2 , h1{
-    text-decoration: underline;
+    
     text-shadow: 3px 5px 7px black;
     text-decoration:solid;
 }
@@ -22,3 +22,18 @@ p {
     margin: auto;
 }
 
+ul , li {
+    margin:auto;
+    font-weight: 100;
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-style: italic;
+    padding: 10px;
+}
+    
+nav {
+    border-color: black;
+    text-decoration: underline;
+    
+}
